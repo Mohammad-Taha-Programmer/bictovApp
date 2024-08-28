@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "520476603498",
+    "project_id": "bictov-3c983",
+    "storage_bucket": "bictov-3c983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520476603498:android:0c6f88132e8b1635258613",
+        "android_client_info": {
+          "package_name": "com.example.bictov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520476603498-uoirn1k5pkmtjdop2ipkn1s2m0sgmghr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs5WLSp_7wP74X9-b-zS2mAJEblZQq4Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520476603498-uoirn1k5pkmtjdop2ipkn1s2m0sgmghr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520476603498-un3nuf926uf7rvqp2g0conr2uo8og9gk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bictov"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
